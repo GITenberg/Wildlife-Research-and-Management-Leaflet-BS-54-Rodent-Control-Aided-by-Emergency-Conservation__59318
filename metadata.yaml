@@ -1,5 +1,8 @@
 _repo: Wildlife-Research-and-Management-Leaflet-BS-54-Rodent-Control-Aided-by-Emergency-Conservation__59318
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59318-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Stanley Paul
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '44407'
     url: http://www.gutenberg.org/2009/agents/44407
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59318#Wildlife-Research-and-Management-Leaflet-BS-54-Rodent-Control-Aided-by-Emergency-Conservation_
 gutenberg_issued: '2019-04-20'
 gutenberg_type: Text
 identifiers:
